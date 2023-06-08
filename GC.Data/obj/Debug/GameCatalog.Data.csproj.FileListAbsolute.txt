@@ -1,0 +1,267 @@
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\GC.Data.dll.config
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\GC.Data.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\GC.Data.pdb
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\EntityFramework.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\EntityFramework.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GameCatalog.Data.csproj.AssemblyReference.cache
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GameCatalog.Data.csproj.CoreCompileInputs.cache
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GameCatalog.Data.csproj.CopyComplete
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GC.Data.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GC.Data.pdb
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GameCatalog.Data.csproj.GenerateResource.cache
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GC.Data.Migrations.NewDevelopersTable.resources
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Remotion.Linq.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Buffers.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Collections.Immutable.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Interactive.Async.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Memory.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Numerics.Vectors.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Security.AccessControl.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Security.Permissions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Security.Principal.Windows.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Text.Encodings.Web.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Text.Json.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.ValueTuple.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\Remotion.Linq.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Buffers.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Collections.Immutable.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Interactive.Async.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Memory.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Numerics.Vectors.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Text.Encodings.Web.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Text.Json.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\System.ValueTuple.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GameCatalog.Data.Migrations.InitialCreate.resources
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\GC.Data.dll.config
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\GC.Data.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\GC.Data.pdb
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Remotion.Linq.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Interactive.Async.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\Remotion.Linq.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Collections.Immutable.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Interactive.Async.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\obj\Debug\GameCatalog.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\obj\Debug\GameCatalog.Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\obj\Debug\GameCatalog.Data.Migrations.InitialCreate.resources
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\obj\Debug\GC.Data.Migrations.NewDevelopersTable.resources
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\obj\Debug\GameCatalog.Data.csproj.GenerateResource.cache
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\obj\Debug\GameCatalog.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\obj\Debug\GameCatalog.Data.csproj.CopyComplete
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\obj\Debug\GC.Data.dll
+C:\Users\user\Desktop\distributed-application-project-main\GC.Data\obj\Debug\GC.Data.pdb

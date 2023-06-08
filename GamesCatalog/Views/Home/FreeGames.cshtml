@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = ViewData["title"];
+}
+
+<h2>GameOfTheDay</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        
+        <img src="@ViewData["image"]" width="350" height="195" style="border-radius:8px" />
+    </div>
+
+    <div class="col-md-4">
+        <p>Name: @ViewData["title"]</p>
+        <p>Release Date: @ViewData["releaseDate"]</p>
+        <p>Genre: @ViewData["genre"]</p>
+        <p>Operation System: @ViewData["os"]</p>
+        <p>Proccesor: @ViewData["processor"]</p>
+        <p>Memory: @ViewData["memory"]</p>
+        <p>Graphics: @ViewData["graphics"] </p>
+    </div>
+    <div class="col-md-4">
+        <p>Description: @ViewData["description"]</p>
+        
+    </div>
+    
+</div>
+<hr style="color:black"/>
+<div class="row">
+    
+        <img src="https://images.playerslounge.co/img/homepage/hero-background.png" alt="Gaming" width="620" height="460" align="right">
+  
+</div>

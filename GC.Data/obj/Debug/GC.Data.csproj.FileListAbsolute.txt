@@ -1,0 +1,12 @@
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\GC.Data.dll.config
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\GC.Data.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\GC.Data.pdb
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\EntityFramework.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\EntityFramework.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GC.Data.csproj.AssemblyReference.cache
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GC.Data.csproj.CoreCompileInputs.cache
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GC.Data.csproj.CopyComplete
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GC.Data.dll
+D:\Greti\Uni\3rd year\1st trimester\Разпределени приложения C#\FinalProject\GamesCatalog\GC.Data\obj\Debug\GC.Data.pdb

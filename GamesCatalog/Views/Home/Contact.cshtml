@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+
+<div class="mapouter">
+    <div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=832&amp;height=478&amp;hl=en&amp;q=plovdiv&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
+    <style>
+        .mapouter {
+            position: relative;
+            text-align: right;
+            width: 832px;
+            height: 478px;
+        }
+
+        .gmap_canvas {
+            overflow: hidden;
+            background: none !important;
+            width: 832px;
+            height: 478px;
+        }
+
+        .gmap_iframe {
+            width: 832px !important;
+            height: 478px !important;
+        }
+    </style>
+</div>
+<h4>You can find me somewhere around here!</h4>
+
+<address>
+    Name: Kristiyan Petrov<br />
+    Currently a student who is trying to pass this exam :)<br />
+</address>
